@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: OKTicket
-    url: https://www.okticket.es
+    url: https://www.okticket.es/hola
   - name: Gestor OKTicket
     url: https://admin.okticket.es/
   - name: Gestor Nuevo
