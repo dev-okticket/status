@@ -21,10 +21,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://adminokt.okticket.es/img/logo-okticket-blue.d2d4fb49.png
-  name: status
+  name: SACA UNA FOTO, TIRA EL TICKET
   introTitle: " **OKTicket**  status page."
   introMessage: .
-  navbar:
-    - title: SACA UNA FOTO, TIRA EL TICKET 
-      href: /
 
