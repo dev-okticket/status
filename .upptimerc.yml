@@ -8,6 +8,12 @@ sites:
     url: https://admin.okticket.es/
   - name: Gestor Nuevo
     url: https://adminokt.okticket.es/
+  - name: BBDD Mongo
+    url: https://api.okticket.es/v2/public/api/monitor/mongodb
+  - name: BBDD Mysql
+    url: https://api.okticket.es/v2/public/api/monitor/mysql
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
