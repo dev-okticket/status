@@ -27,6 +27,4 @@ status-website:
   navbar:
     - title: SACA UNA FOTO, TIRA EL TICKET 
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
