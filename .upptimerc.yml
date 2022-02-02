@@ -14,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://www.okticket.es/wp-content/uploads/2021/03/logoOkt.png
+  logoUrl: https://adminokt.okticket.es/img/logo-okticket-blue.d2d4fb49.png
   name: status
   introTitle: " **OKTicket**  status page."
   introMessage: Mensaje
