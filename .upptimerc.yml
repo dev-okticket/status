@@ -17,9 +17,9 @@ status-website:
   logoUrl: https://adminokt.okticket.es/img/logo-okticket-blue.d2d4fb49.png
   name: status
   introTitle: " **OKTicket**  status page."
-  introMessage: Mensaje
+  introMessage: .
   navbar:
-    - title: Status
+    - title: SACA UNA FOTO, TIRA EL TICKET 
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
