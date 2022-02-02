@@ -1,22 +1,22 @@
 [
   {
     "name": "OKTicket",
-    "url": "https://www.okticket.es/hola",
+    "url": "https://www.okticket.es",
     "icon": "https://favicons.githubusercontent.com/www.okticket.es",
     "slug": "ok-ticket",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1375,
-    "timeDay": 1375,
-    "timeWeek": 1375,
-    "timeMonth": 1375,
-    "timeYear": 1375,
+    "status": "up",
+    "uptime": "99.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
+    "time": 1374,
+    "timeDay": 1374,
+    "timeWeek": 1374,
+    "timeMonth": 1374,
+    "timeYear": 1374,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-02": 4
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 954,
-    "timeDay": 954,
-    "timeWeek": 954,
-    "timeMonth": 954,
-    "timeYear": 954,
+    "time": 961,
+    "timeDay": 961,
+    "timeWeek": 961,
+    "timeMonth": 961,
+    "timeYear": 961,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 752,
-    "timeWeek": 752,
-    "timeMonth": 752,
-    "timeYear": 752,
+    "time": 748,
+    "timeDay": 748,
+    "timeWeek": 748,
+    "timeMonth": 748,
+    "timeYear": 748,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 323,
-    "timeWeek": 323,
-    "timeMonth": 323,
-    "timeYear": 323,
+    "time": 328,
+    "timeDay": 328,
+    "timeWeek": 328,
+    "timeMonth": 328,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   }
 ]
