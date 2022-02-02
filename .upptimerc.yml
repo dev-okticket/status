@@ -1,4 +1,3 @@
-# Change these first
 owner: dev-okticket
 repo: status
 
@@ -9,8 +8,6 @@ sites:
     url: https://admin.okticket.es/
   - name: Gestor Nuevo
     url: https://adminokt.okticket.es/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,13 +16,11 @@ status-website:
   baseUrl: /status
   logoUrl: https://www.okticket.es/wp-content/uploads/2021/03/logoOkt.png
   name: status
-  introTitle: "**OKTicket**  status page."
-  introMessage: 
+  introTitle: " **OKTicket**  status page."
+  introMessage: Mensaje
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
