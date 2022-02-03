@@ -12,8 +12,6 @@ sites:
     url: https://api.okticket.es/v2/public/api/monitor/mongodb
   - name: BBDD Mysql
     url: https://api.okticket.es/v2/public/api/monitor/mysql
-  - name: Test OKTicket Gestor
-    url: http://15.237.124.134
 
 
 workflowSchedule:
