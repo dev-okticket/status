@@ -17,7 +17,6 @@ sites:
 
 
 workflowSchedule:
-
   responseTime: "*/5 * * * *"
 
 status-website:
