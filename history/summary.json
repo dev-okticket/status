@@ -94,19 +94,19 @@
     "url": "http://15.237.124.134",
     "icon": "https://favicons.githubusercontent.com/15.237.124.134",
     "slug": "test-ok-ticket-gestor",
-    "status": "down",
-    "uptime": "37.83%",
-    "uptimeDay": "37.83%",
-    "uptimeWeek": "37.83%",
-    "uptimeMonth": "37.83%",
-    "uptimeYear": "37.83%",
-    "time": 253,
-    "timeDay": 253,
-    "timeWeek": 253,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "status": "up",
+    "uptime": "33.70%",
+    "uptimeDay": "33.70%",
+    "uptimeWeek": "33.70%",
+    "uptimeMonth": "33.70%",
+    "uptimeYear": "33.70%",
+    "time": 277,
+    "timeDay": 277,
+    "timeWeek": 277,
+    "timeMonth": 277,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2022-02-03": 29
+      "2022-02-03": 35
     }
   }
 ]
