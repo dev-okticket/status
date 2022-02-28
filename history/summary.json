@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.okticket.es",
     "slug": "ok-ticket",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1706,
-    "timeDay": 1860,
+    "timeDay": 1858,
     "timeWeek": 1826,
     "timeMonth": 1706,
     "timeYear": 1706,
     "dailyMinutesDown": {
-      "2022-02-28": 2
+      "2022-02-28": 9
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/admin.okticket.es",
     "slug": "gestor-ok-ticket",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 1252,
-    "timeDay": 1455,
+    "timeDay": 1452,
     "timeWeek": 1357,
     "timeMonth": 1252,
     "timeYear": 1252,
     "dailyMinutesDown": {
-      "2022-02-28": 17
+      "2022-02-28": 25
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://adminokt.okticket.es/",
     "icon": "https://favicons.githubusercontent.com/adminokt.okticket.es",
     "slug": "gestor-nuevo",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 943,
-    "timeDay": 1028,
-    "timeWeek": 989,
+    "timeDay": 1040,
+    "timeWeek": 990,
     "timeMonth": 943,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2022-02-28": 17
+      "2022-02-28": 25
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://api.okticket.es/v2/public/api/monitor/mongodb",
     "icon": "https://favicons.githubusercontent.com/api.okticket.es",
     "slug": "bbdd-mongo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1213,
-    "timeDay": 1352,
-    "timeWeek": 1319,
-    "timeMonth": 1213,
-    "timeYear": 1213,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1216,
+    "timeDay": 1406,
+    "timeWeek": 1327,
+    "timeMonth": 1216,
+    "timeYear": 1216,
     "dailyMinutesDown": {
-      "2022-02-28": 1
+      "2022-02-28": 8
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://api.okticket.es/v2/public/api/monitor/mysql",
     "icon": "https://favicons.githubusercontent.com/api.okticket.es",
     "slug": "bbdd-mysql",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 396,
     "timeDay": 409,
     "timeWeek": 431,
     "timeMonth": 396,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2022-02-28": 1
+      "2022-02-28": 8
     }
   }
 ]
