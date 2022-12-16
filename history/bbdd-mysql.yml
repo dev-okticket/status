@@ -1,7 +1,7 @@
 url: https://api.okticket.es/v2/public/api/monitor/mysql
 status: up
 code: 200
-responseTime: 503
-lastUpdated: 2022-12-16T13:35:43.801Z
+responseTime: 231
+lastUpdated: 2022-12-16T13:45:11.822Z
 startTime: Wed Feb 02 2022 12:39:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
