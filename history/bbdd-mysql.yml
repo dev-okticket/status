@@ -1,7 +1,7 @@
 url: https://api.okticket.es/v2/public/api/monitor/mysql
 status: down
 code: 504
-responseTime: 10084
-lastUpdated: 2023-03-14T09:36:47.107Z
+responseTime: 10133
+lastUpdated: 2023-03-14T09:46:35.462Z
 startTime: Wed Feb 02 2022 12:39:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
