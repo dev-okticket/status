@@ -7,7 +7,7 @@ sites:
   - name: Gestor OKTicket
     url: https://admin.okticket.es/
   - name: Gestor Nuevo
-    url: https://adminokt.okticket.es/
+    url: https://admin.okticket.es/
   - name: BBDD Mongo
     url: https://api.okticket.es/v2/public/api/monitor/mongodb
   - name: BBDD Mysql
