@@ -1,7 +1,7 @@
 url: https://api.okticket.es/v2/public/api/monitor/mongodb
 status: up
 code: 200
-responseTime: 685
-lastUpdated: 2023-06-20T19:39:27.240Z
+responseTime: 1171
+lastUpdated: 2023-06-20T19:48:55.122Z
 startTime: Wed Feb 02 2022 12:39:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
