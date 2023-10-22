@@ -1,7 +1,7 @@
 url: https://www.okticket.es
-status: up
-code: 200
-responseTime: 619
-lastUpdated: 2023-10-22T09:31:49.512Z
+status: down
+code: 406
+responseTime: 569
+lastUpdated: 2023-10-22T09:37:04.597Z
 startTime: 2022-02-02T12:21:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
